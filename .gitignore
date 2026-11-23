@@ -1,0 +1,4 @@
+.copilot-assistant/
+.claude/
+skills-lock.json
+venv/
